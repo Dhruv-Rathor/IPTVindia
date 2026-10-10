@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETVCinema.in@SD" group-title="Movies",ETV Cinema (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="PublicMovies.in@SD" group-title="Movies",Public Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" group-title="Movies",Shubh Cinema TV (720p)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies",The Movie Club (1080p)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="Movies",Zee Cine Classic (1080p)
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="Movies",Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" group-title="Movies",Shubh Cinema TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMaaMovies.in@HD" group-title="Movies",Star Maa Movies HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="MHOneMovies.in@SD" group-title="Movies",MH One Movies (576p)
+https://mumt03.tangotv.in/Dsly5z3HMHONEMOVIE/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollygold.in@HD" group-title="Movies",Bollygold (1080p)
+https://jmp2.uk/stvp-IN4000600Q
+
+#EXTINF:-1 tvg-id="BoogleBollywood.in@SD" group-title="Movies",Boogle Bollywood (720p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies",The Movie Club (1080p)
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+
+#EXTINF:-1 tvg-id="VijayTakkar.in@APAC" group-title="Movies",Vijay Takkar APAC (1080p)
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+
+#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" group-title="Movies",Zee South Flix (1080p)
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHBollyFlix.in@HD" group-title="Movies",NH BollyFlix (1080p)
+https://jmp2.uk/stvp-IN46000140Q
+
+#EXTINF:-1 tvg-id="AndTV.in@International" group-title="Entertainment",&TV International (1080p)
+https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AakaashAath.in@SD" group-title="Entertainment",Aakaash Aath (576p)
+https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
+
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" group-title="Entertainment",Amrita TV (720p)
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="Entertainment",Anjan TV (720p)
+https://anjan.vstream.online/anjanorg/ngrp:anjan_hdall/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsMENA.in@HD" group-title="Entertainment",Colors MENA HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsRishteyAmericas.in@SD" group-title="Entertainment",Colors Rishtey Americas (396p)
+https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsTamil.in@HD" group-title="Entertainment",Colors Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVComedy.in@HD" group-title="Entertainment",ETV Comedy (1080p)
+https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVJosh.in@HD" group-title="Entertainment",ETV Josh (1080p)
+https://cc-uyh1ow5zouoio.akamaized.net/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ETVPlus.in@SD" group-title="Entertainment",ETV Plus (396p)
+https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="JoyTV.in@SD" group-title="Entertainment",Joy TV (1080p)
+https://ktismaservers.in:3412/live/joytvlive.m3u8
+
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" group-title="Entertainment",Kairali Arabia (576p)
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" group-title="Entertainment",Kairali TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="Entertainment",Mazhavil Manorama
+https://cdn.pishow.tv/ott/live/1479/master.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@HD" group-title="Entertainment",Mazhavil Manorama HD (576p)
+https://mumt07.tangotv.in/zHjX9OFlMAZHAVILMANORAMAHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" group-title="Entertainment",Zee Bangla HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+#EXTINF:-1 tvg-id="ZeeDilSe.in@HD" group-title="Entertainment",Zee Dil Se (1080p)
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeHorrorNights.in@HD" group-title="Entertainment",Zee Horror Nights (1080p)
+https://amg00862-amg00862c7-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c7-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeKannada.in@HD" group-title="Entertainment",Zee Kannada HD (1080p)
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="ZeeMarathi.in@HD" group-title="Entertainment",Zee Marathi HD (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+
+#EXTINF:-1 tvg-id="ColorsGujarati.in@SD" group-title="Entertainment",Colors Gujarati (396p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+
+#EXTINF:-1 tvg-id="AnjanTV.in@SD" group-title="Entertainment",Anjan TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVANJANTV/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliTV.in@SD" group-title="Entertainment",Kairali TV (576p)
+https://streams.tangotv.in/KAIRALI/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="AmritaTV.in@SD" group-title="Entertainment",Amrita TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlAMRITATV/index.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" group-title="Entertainment",Kairali We (576p)
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="Entertainment",Mazhavil Manorama (576p)
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+
+#EXTINF:-1 tvg-id="StarVijay.in@UK" group-title="Entertainment",Star Vijay (396p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starvijayuk.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTamil.in@HD" group-title="Entertainment",Zee Tamil HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ColorsKannada.in@HD" group-title="Entertainment",Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KairaliWe.in@SD" group-title="Entertainment",Kairali We (576p)
+https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8
+
+#EXTINF:-1 tvg-id="StarMaa.in@HD" group-title="Entertainment",Star Maa HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-id="StarJalsha.in@HD" group-title="Entertainment",Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="StarPravah.in@HD" group-title="Entertainment",Star Pravah HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="ColorsMarathi.in@HD" group-title="Entertainment",Colors Marathi HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Asianet.in@HD" group-title="Entertainment",Asianet HD (360p) [Not 24/7]
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b696000.m3u8
+
+#EXTINF:-1 tvg-id="Asianet.in@HD" group-title="Entertainment",Asianet HD (1080p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8
+
+#EXTINF:-1 tvg-id="ColorsSuper.in@SD" group-title="Entertainment",Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="SwastikTV.in@SD" group-title="Entertainment",Swastik TV (720p)
+https://server.playontv.in/swastiktv/index.m3u8
+
+#EXTINF:-1 tvg-id="JoyTV.in@SD" group-title="Entertainment",Joy TV (576p)
+https://mumbai-edge.smartplaytv.in/JoyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in@HD" group-title="Entertainment",Zee Bangla HD (720p) [Geo-blocked]
+https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeTelugu.in@HD" group-title="Entertainment",Zee Telugu HD (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeTeluguHD.m3u8
+
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" group-title="Entertainment",Mazhavil Manorama (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/MazhavilManoramaInternational.m3u8
+
+#EXTINF:-1 tvg-id="AaseervathamTV.in@SD" group-title="Devotional",Aaseervatham TV (576p)
+https://mumt04.tangotv.in/m18aqlK4AASEERVATHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@India" group-title="Devotional",Angel TV (720p)
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArputharYesuTV.in@SD" group-title="Devotional",Arputhar Yesu TV (576p)
+https://account33.livebox.co.in/jesushelpshls/live.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in@SD" group-title="Devotional",Ayush TV (360p) [Not 24/7]
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in@SD" group-title="Devotional",Ayush TV
+https://cdn.pishow.tv/ott/live/221/master.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" group-title="Devotional",Channel Divya (1080p)
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DivyavaniTV.in@SD" group-title="Devotional",Divyavani TV (576p)
+https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="Devotional",Hare Krsna TV (1080p)
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="Devotional",Hare Krsna TV (720p)
+https://airtelapp.shemaroo.com/harekrsnatv/smil:harekrsnatvadp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" group-title="Devotional",Ishwar Bhakti TV (720p)
+https://6n3yow8pl9ok-hls-live.5centscdn.com/ishwartvlive/tv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in@SD" group-title="Devotional",Mahaa Bhakti (1080p)
+https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="Devotional",Mercy TV (1080p)
+https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" group-title="Devotional",Prarthana TV (720p)
+https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in@SD" group-title="Devotional",Sai TV
+https://account31.livebox.co.in/saitvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in@SD" group-title="Devotional",Sai TV
+https://cdn.pishow.tv/ott/live/1235/master.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in@SD" group-title="Devotional",Sairam TV
+https://cdn.pishow.tv/ott/live/1611/master.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in@SD" group-title="Devotional",Sana Plus (1080p) [Not 24/7]
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in@SD" group-title="Devotional",Sana Plus (1080p)
+https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhTV.in@SD" group-title="Devotional",Shubh TV (1080p)
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="Devotional",Shubhsandesh TV (720p) [Not 24/7]
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="Devotional",Shubhsandesh TV
+https://cdn.pishow.tv/ott/live/457/master.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" group-title="Devotional",Subhavaartha TV (720p)
+https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" group-title="Devotional",Subhavaartha TV
+https://cdn.pishow.tv/ott/live/278/master.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in@SD" group-title="Devotional",SVBC 2 (1080p)
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in@SD" group-title="Devotional",SVBC 3 (720p)
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in@SD" group-title="Devotional",SVBC 4 (1080p)
+https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in@SD" group-title="Devotional",SVBC Sri Venkateswara Bhakti Channel (1080p)
+https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TotalBhakti.in@SD" group-title="Devotional",Total Bhakti (1080p)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBBhakti.in@HD" group-title="Devotional",ZB Bhakti (720p)
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="Devotional",Hare Krsna TV (576p)
+https://mumt05.tangotv.in/87NeALx2HAREKRSNA/index.m3u8
+
+#EXTINF:-1 tvg-id="IshwarBhaktiTV.in@SD" group-title="Devotional",Ishwar Bhakti TV (576p)
+https://mumt05.tangotv.in/87NeALx2ISHWARBHAKTI/index.m3u8
+
+#EXTINF:-1 tvg-id="BhaktiSagar.in@SD" group-title="Devotional",Bhakti Sagar (576p)
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="Devotional",Awakening TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" group-title="Devotional",Hope Channel India (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+
+#EXTINF:-1 tvg-id="AngelTV.in@India" group-title="Devotional",Angel TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3ANGELTVHD/index.m3u8
+
+#EXTINF:-1 tvg-id="HinduDharmam.in@SD" group-title="Devotional",Hindu Dharmam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+
+#EXTINF:-1 tvg-id="PeaceofMindTV.in@SD" group-title="Devotional",Peace of Mind TV (576p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:peaceofmind.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="MahaaBhakti.in@SD" group-title="Devotional",Mahaa Bhakti (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in@Tamil" group-title="Devotional",Hosanna TV
+https://asia.mslivestream.net/mslive/bfba54c5c96a6359e2da0ca35f4998af.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in@Hindi" group-title="Devotional",Hosanna TV Hindi
+https://ktismaservers.in:3466/live/hosannattvhindhilive.m3u8
+
+#EXTINF:-1 tvg-id="HosannaTV.in@Global" group-title="Devotional",Hosanna TV Global
+https://ktismaservers.in:3349/live/hosannatvlive.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in@SD" group-title="Devotional",SVBC (576p)
+https://mumt04.tangotv.in/m18aqlK4SVBCTELUGU/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC2.in@SD" group-title="Devotional",SVBC 2 (576p)
+https://mumt03.tangotv.in/Dsly5z3HSVBC2TAMIL/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC3.in@SD" group-title="Devotional",SVBC 3 (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SVBC3KANNADA/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC4.in@SD" group-title="Devotional",SVBC 4 (576p)
+https://mumt05.tangotv.in/87NeALx2SVBC4HINDI/index.m3u8
+
+#EXTINF:-1 tvg-id="SubhavaarthaTV.in@SD" group-title="Devotional",Subhavaartha TV (576p)
+https://mumt05.tangotv.in/87NeALx2SUBHAVAARTHATV/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in@SD" group-title="Devotional",Sankara TV (576p)
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+
+#EXTINF:-1 tvg-id="SohamTV.in@SD" group-title="Devotional",Soham TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSOHAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhsandeshTV.in@SD" group-title="Devotional",Shubhsandesh TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSHUBHSANDESH/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhTV.in@SD" group-title="Devotional",Shubh TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSHUBHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SharnamTV.in@SD" group-title="Devotional",Sharnam TV (576p)
+https://mumt06.tangotv.in/qYyB8fXVSHARNAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="Devotional",Mercy TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HMERCYTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SairamTV.in@SD" group-title="Devotional",Sairam TV (576p)
+https://mumt04.tangotv.in/m18aqlK4SAIRAMTV/index.m3u8
+
+#EXTINF:-1 tvg-id="GospelTVIndia.in@SD" group-title="Devotional",Gospel TV India (576p)
+https://server.livelegitpro.in:9899/gospeltv/index.m3u8
+
+#EXTINF:-1 tvg-id="KnockBhakti.in@SD" group-title="Devotional",Knock Bhakti (1080p)
+https://knocktv2.wiseplayout.com/Knock_Bhakti_EST/master.m3u8
+
+#EXTINF:-1 tvg-id="MercyTV.in@SD" group-title="Devotional",Mercy TV (576p)
+https://mumbai-edge.smartplaytv.in/MercyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SaiTV.in@SD" group-title="Devotional",Sai TV (576p)
+https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SVBC.in@SD" group-title="Devotional",SVBC (720p)
+https://mumbai-edge.smartplaytv.in/SVBC/index.m3u8
+
+#EXTINF:-1 tvg-id="SankaraTV.in@SD" group-title="Devotional",Sankara TV (576p)
+https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" group-title="Devotional",Channel Divya (720p)
+https://mumbai-edge.smartplaytv.in/channeldivya/index.m3u8
+
+#EXTINF:-1 tvg-id="ChannelDivya.in@SD" group-title="Devotional",Channel Divya (576p)
+https://mumt05.tangotv.in/87NeALx2DIVYA/index.m3u8
+
+#EXTINF:-1 tvg-id="AyushTV.in@SD" group-title="Devotional",Ayush TV (576p)
+https://mumt07.tangotv.in/zHjX9OFlAYUSHTV/index.m3u8
+
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" group-title="Devotional",Sarv Dharm Sangam (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SARAVDHARAMSANGAM/index.m3u8
+
+#EXTINF:-1 tvg-id="CalvaryTV.in@SD" group-title="Devotional",Calvary TV (576p)
+https://cdn.pishow.tv/ott/live/963/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelIndia.in@SD" group-title="Devotional",Hope Channel India (576p)
+https://cdn.pishow.tv/ott/live/1385/master.m3u8
+
+#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" group-title="Devotional",Prarthana TV (576p)
+https://cdn.pishow.tv/ott/live/1500/master.m3u8
+
+#EXTINF:-1 tvg-id="HareKrsnaTV.in@SD" group-title="Devotional",Hare Krsna TV (720p)
+https://yuppparoriglin.akamaized.net/181224/smil:harekrishna.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="JinvaniChannel.in@SD" group-title="Devotional",Jinvani Channel (576p)
+https://mumt03.tangotv.in/Dsly5z3HJINVANI/index.m3u8
+
+#EXTINF:-1 tvg-id="SantvaniChannel.in@SD" group-title="Devotional",Santvani Channel (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/santwani/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SarvDharmSangam.in@SD" group-title="Devotional",Sarv Dharm Sangam (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SharnamTV.in@SD" group-title="Devotional",Sharnam TV (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AwakeningTV.in@SD" group-title="Devotional",Awakening TV (576p)
+https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="StarSports2Telugu.in@HD" group-title="Sports",Star Sports 2 Telugu HD (576p)
+https://real-vk.proxy.nellaiiptv.com/SDMEDIA/index.m3u8
+
