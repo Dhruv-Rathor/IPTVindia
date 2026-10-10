@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZeeCinema.in@APAC" group-title="Movies - Hindi",Zee Cinema APAC (720p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="Movies - Hindi",Zee Cine Classic (1080p)
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies - Hindi",Goldmines Movies (576p)
+https://streams.tangotv.in/GOLDMINEMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" group-title="Movies - Hindi",Goldmines Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4GOLDMINEMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Movies - Hindi",Goldmines Bollywood
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Movies - Hindi",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESBOLLYWOOD/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Movies - Hindi",Goldmines Bollywood (576p)
+https://streams.tangotv.in/GOLDMINESBOLLYWOOD/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesBollywood.in@SD" group-title="Movies - Hindi",Goldmines Bollywood (576p)
+https://tvsen6.aynaott.com/55xNrLdf/index.m3u8
+
+#EXTINF:-1 tvg-id="GoldminesAction.in@SD" group-title="Movies - Hindi",Goldmines Action (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINESACTION/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" group-title="Movies - Hindi",Goldmines 2 (576p)
+https://mumt03.tangotv.in/Dsly5z3HGOLDMINES2/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies - Hindi",Goldmines (576p)
+https://streams.tangotv.in/GOLDMINES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines.in@SD" group-title="Movies - Hindi",Goldmines (576p)
+https://mumt04.tangotv.in/m18aqlK4GOLDMINES/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies - Hindi",B4U Movies
+https://cdn.pishow.tv/ott/live/419/master.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies - Hindi",B4U Movies (576p)
+https://streams.tangotv.in/B4UMOVIES/ORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="B4UMovies.in@India" group-title="Movies - Hindi",B4U Movies (576p)
+https://mumt06.tangotv.in/qYyB8fXVB4UMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" group-title="Movies - Hindi",Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" group-title="Movies - Hindi",Shubh Cinema TV (576p)
+https://mumt03.tangotv.in/Dsly5z3HSHUBHCINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" group-title="Movies - Hindi",Shubh Cinema TV (720p)
+https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies - Hindi",The Movie Club (1080p)
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
+
+#EXTINF:-1 tvg-id="TheMovieClub.in@HD" group-title="Movies - Hindi",The Movie Club (1080p)
+https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMovies.in@SD" group-title="Movies - Hindi",Public Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" group-title="Movies - Hindi",All Time Movies (576p)
+https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
+
+#EXTINF:-1 tvg-id="AllTimeMovies.in@SD" group-title="Movies - Hindi",All Time Movies (576p)
+https://samitaorigin.tangotv.in/ALLTIMEMOVIES/SAMITAORIGIN/index.m3u8
+
+#EXTINF:-1 tvg-id="Bollygold.in@HD" group-title="Movies - Hindi",Bollygold (1080p)
+https://jmp2.uk/stvp-IN4000600Q
+
+#EXTINF:-1 tvg-id="BoogleBollywood.in@SD" group-title="Movies - Hindi",Boogle Bollywood (720p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+
+#EXTINF:-1 tvg-id="NHBollyFlix.in@HD" group-title="Movies - Hindi",NH BollyFlix (1080p)
+https://jmp2.uk/stvp-IN46000140Q
+
+#EXTINF:-1 tvg-id="NHBollyRaga.in@HD" group-title="Movies - Hindi",NH BollyRaga (1080p)
+https://jmp2.uk/stvp-IN460001373
+
+#EXTINF:-1 tvg-id="ZeeSouthFlix.in@HD" group-title="Movies - Hindi",Zee South Flix (1080p)
+https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+
